@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["BC:3C:01:94:15:1F:68:9A:81:77:34:3B:AF:9E:72:61:16:D2:F5:46:F2:34:BA:67:62:DE:55:DD:61:57:DD:DA"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.orgname.TestAppLink",
+    "sha256_cert_fingerprints":
+    ["BC:3C:01:94:15:1F:68:9A:81:77:34:3B:AF:9E:72:61:16:D2:F5:46:F2:34:BA:67:62:DE:55:DD:61:57:DD:DA"]
+  }
 }]
