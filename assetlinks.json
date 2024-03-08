@@ -1,11 +1,9 @@
-[
- {
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.chakri.deeplink",
+    "package_name": "com.moonlit.appslinknative",
     "sha256_cert_fingerprints":
-    ["1B:BF:7E:66:05:BC:F5:53:DB:64:9D:39:B6:ED:22:2D:70:D4:A1:9D:A2:CC:9C:1A:E4:C5:5C:78:6D:C4:59:C5"]
+    ["BC:3C:01:94:15:1F:68:9A:81:77:34:3B:AF:9E:72:61:16:D2:F5:46:F2:34:BA:67:62:DE:55:DD:61:57:DD:DA"]
   }
-}
-]
+}]
